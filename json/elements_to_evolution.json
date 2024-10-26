@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"id": 1,
+			"name": "Piedra agua"
+		},
+		{
+			"id": 2,
+			"name": "Piedra fuego"
+		},
+		{
+			"id": 3,
+			"name": "Piedra hoja"
+		},
+		{
+			"id": 4,
+			"name": "Piedra trueno"
+		},
+		{
+			"id": 5,
+			"name": "Piedra lunar"
+		}
+	]
+}

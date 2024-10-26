@@ -1,0 +1,80 @@
+{
+	"types": [
+		{
+			"id": 1,
+			"name": "Agua",
+			"description": "Se dice que es puro y que suele adaptarse a cualquier situación o condición climática, ya que el agua puede adoptar cualquier forma en cualquier momento. \n Los Pokémon de agua resultan poco eficaces y débiles frente al tipo planta. Sin embargo, muchos Pokémon de agua son también tipo hielo o pueden aprender ataques de hielo, que resultan efectivos contra los de planta, disminuyendo así su desventaja de tipo. El otro tipo elemental que representa una amenaza para los Pokémon de agua es el eléctrico, exceptuando casos como Swampert, que poseen el tipo tierra como secundario, otorgándoles inmunidad. \n Algunos Pokémon del tipo agua necesitan la piedra agua para evolucionar."
+		},
+		{
+			"id": 2,
+			"name": "Bicho",
+			"description": "Este grupo de Pokémon se caracteriza por su crecimiento rápido, ya que, en general, no tardan mucho en evolucionar. Viven primordialmente en los bosques y zonas cercanas a estos, algunos son un poco más difíciles de divisar debido a que se encuentran en copas de árboles donde anidan. Muchos de los Pokémon de tipo bicho tienen como tipo secundario volador, lo cual los hace más resistentes a los ataques del tipo planta y tipo lucha, pero los hace más débiles al tipo roca."
+		},
+		{
+			"id": 3,
+			"name": "Dragón",
+			"description": "Es un tipo elemental ancestral, suelen ser Pokémon que cuesta capturar y/o ver, la mayoría de estos Pokémon suelen vivir en cavernas y/o lagos. La mayoría de estos Pokémon suelen ser Pokémon legendarios. \n Los movimientos de tipo dragón solo son efectivos contra Pokémon de su propio tipo, el tipo Dragón. Por lo tanto, es después del tipo normal el tipo con menos fortalezas contra otros tipos, no existiendo nunca un Pokémon con doble desventaja a él"
+		},
+		{
+			"id": 4,
+			"name": "Eléctrico",
+			"description": "Los Pokémon de tipo eléctrico tienen hábitats variados, desde bosques y praderas, hasta ciudades y centrales eléctricas. Los Pokémon de tipo dragón, eléctrico y planta son resistentes al tipo eléctrico, y aún más los de tipo tierra, quienes son inmunes a los ataques eléctricos. Por consiguiente, los Pokémon eléctricos deben de ser muy precavidos con los ataques de tipo tierra, el cual representa su única debilidad. \n Los Pokémon de tipo eléctrico almacenan electricidad estática en sus cuerpos y luego la liberan en forma de rayos por diferentes partes: mejillas, colas, orejas o antenas. Pero, cuando un Pokémon de este tipo absorbe demasiada electricidad (ya sea por tormentas eléctricas o por aparatos que funcionen con electricidad), puede llegar a ser muy peligroso, debido a que tiene demasiada energía contenida en su interior que no puede ser liberada en poco tiempo, haciéndolos enfermar. Cuando eso pasa, hay que quitarles la electricidad en exceso a la mayor brevedad posible antes de que, en el peor de los casos, el Pokémon se sobrecargue y explote."
+		},
+		{
+			"id": 5,
+			"name": "Fantasma",
+			"description": "Los Pokémon que pertenecen al tipo fantasma, generalmente, se relacionan con el terror, lo oscuro y el más allá. La mayoría tienen aspecto de fantasma o de objeto poseído. Suelen vivir en casas abandonadas, cementerios, torres fúnebres y lugares oscuros e inhabitados. Gran parte de estos Pokémon esbozan una sonrisa siniestra y tenebrosa. Otra característica de los Pokémon fantasma, es que son, extremadamente, traviesos; y les encantan gastarles bromas pesadas a los humanos y otros Pokémon. También, les encantan ver la cara de miedo de las personas que invaden su territorio. Lo curioso de estos Pokémon es que, cuanto más miedo se les tenga, estos lo absorberán y serán más fuertes."
+		},
+		{
+			"id": 6,
+			"name": "Fuego",
+			"description": "Los Pokémon de tipo fuego basan sus ataques, principalmente, en el control de este elemento; y la mayoría pueden quemar al Pokémon oponente, mientras que ellos no sufren quemaduras. \n Muchos de estos Pokémon desprenden llamaradas de sus cuerpos, lo cual, aparentemente, no les incomoda; y, dependiendo de su estado de ánimo, puede que estas llamas se aviven o disminuyan. Algunos Pokémon de este tipo evolucionan con una piedra evolutiva llamada piedra fuego, como Vulpix, Pansear y Growlithe, incluyendo a Eevee, que, a pesar de no ser tipo fuego, evoluciona a Flareon; que sí es de este tipo."
+		},
+		{
+			"id": 7,
+			"name": "Hielo",
+			"description": "Destacan por su gran resistencia y adaptación al medio frío o glaciar, como son las cimas de las montañas, las cavernas y cuevas heladas, o incluso los polos. Tienen la capacidad de congelar al enemigo en combate, mientras que ellos no pueden padecer dicho estado. Además, pueden realizar ataques devastadores, como frío polar, al cual son inmunes. No reciben daño por granizo. \n Muchos Pokémon de este tipo representan seres vivos que se encuentran en regiones y paisajes helados, como lo son: osos polares, focas, leones marinos y morsas."
+		},
+		{
+			"id": 8,
+			"name": "Lucha",
+			"description": "Este tipo de Pokémon son especialistas en el combate cuerpo a cuerpo. Se podría decir que son opuestos a los del tipo psíquico, ya que estos dependen del ataque especial; mientras que los del tipo lucha se especializan en ataque físico. En su mayoría, sus características están equilibradas (como Hitmontop o Medicham) o si no, suelen ser Pokémon rápidos con un alto ataque (como Lucario e Infernape). Su desarrollo varía: puede ser veloz como de Monferno a Infernape, o tardío como de Croagunk a Toxicroak. Algunos incluso requieren diversas condiciones para evolucionar (Tyrogue necesita igualar su ataque con su defensa para evolucionar en Hitmontop, Riolu evoluciona de día mediante la amistad, y Poliwhirl necesita la piedra agua). \n El hecho de que varios Pokémon de tipo lucha evolucionen de métodos especiales hace referencia a los viajes internos que realizan los luchadores en busca de conocimiento para triunfar o de la paz interior. \n El tipo lucha es, junto con el tipo tierra, el que más ventajas tiene frente a otros tipos con un total de 5 (normal, roca, hielo, siniestro y acero)."
+		},
+		{
+			"id": 9,
+			"name": "Normal",
+			"description": "El tipo normal abarca la mayor cantidad y variedad de movimientos que el resto de tipos. Gran parte de estos son movimientos que no realizan daño o no lo hacen directamente, sino que afectan a las características o estados del Pokémon. \n Los tipos normal son los más diversos entre los Pokémon, con características variadas, desarrollos y requisitos para las evoluciones diferentes de cada uno, al igual que diferir en las zonas donde se pueden capturar, desde bosques, cuevas, montañas, ciudades, etc. \n El tipo normal (junto al tipo eléctrico) es el tipo puro que posee menos debilidades con solo una, el tipo lucha; pero al mismo tiempo es el tipo con menos fortalezas, ya que no es efectivo contra ningún tipo elemental de Pokémon."
+		},
+		{
+			"id": 10,
+			"name": "Planta",
+			"description": "A los Pokémon de tipo planta les gusta cuidar de las flores y a los demás, pero también son grandes luchadores y son expertos en cambios de estado, pudiendo envenenar, paralizar o dormir al rival en combate, mientras que ellos son inmunes a drenadoras pero también a movimientos con esporas y polvos. \n Normalmente, su cuerpo suele ser igual a alguna especie vegetal. Estos Pokémon suelen desarrollar hojas, flores, entre otros que tienen un crecimiento propio, pero que son controladas por el Pokémon. Otra cosa que caracteriza a los Pokémon de tipo planta es que varios de sus movimientos permiten recuperar puntos de salud; como arraigo, drenadoras o síntesis."
+		},
+		{
+			"id": 11,
+			"name": "Psíquico",
+			"description": "A él pertenecen un número considerable de Pokémon, siendo el tipo con mayor número de Pokémon legendarios, con 17 en total. Los Pokémon de este tipo suelen ser muy inteligentes y, a menudo, se les atribuye capacidades como prever acciones futuras, hacer levitar objetos o incluso a ellos mismos. \n Se puede localizar a este tipo de Pokémon en cuevas o zonas cercanas a estas. Por ejemplo: Abra se puede capturar en la Cueva Granito; y Chimecho se puede capturar en la cima del Monte Pírico, en el lado exterior"
+		},
+		{
+			"id": 12,
+			"name": "Roca",
+			"description": "El tipo roca destaca por su gran defensa frente a ataques físicos. Sin embargo, tiene en su contra que presenta varias debilidades con respecto a otros tipos, y los Pokémon de este tipo no se caracterizan por ser muy veloces. Cabe destacar que, la mayoría de los movimientos de tipo roca (sobre todo los físicos), poseen baja precisión a la hora de atacar. \n Los Pokémon de tipo roca no reciben daño por tormentas de arena."
+		},
+		{
+			"id": 13,
+			"name": "Tierra",
+			"description": "Estos Pokémon se pueden hallar en cuevas o zonas rocosas, con excepción de algunos de doble tipo. Groudon, Landorus, Zygarde y Ting-Lu son los únicos Pokémon legendarios de este tipo. Una desventaja de este tipo es que, muchos de ellos, no pueden despegarse del suelo, como Diglett; por eso los Pokémon de tipo volador son inmunes a la mayoría de los ataques de este tipo, al igual que los Pokémon que tengan la habilidad levitación. Pero muchos de ellos aprenden movimientos de tipo roca, que son muy eficaces al tipo volador. Los Pokémon de tipo tierra destacan por ser inmunes ante ataques tipo eléctrico y no reciben daño por tormentas de arena. Son buenos combatientes y poseen ataques sumamente devastadores, como fisura y terremoto; entre otros."
+		},
+		{
+			"id": 14,
+			"name": "Veneno",
+			"description": "El tipo veneno es frecuente en Pokémon; suele encontrarse en zonas donde hay cuevas, pantanos o en sus cercanías. Muchos Pokémon de este tipo pueden expulsar de sus cuerpos distintas sustancias nocivas como gases, ácidos, venenos, esporas u olores malolientes. También, los Pokémon del tipo veneno están basados en seres vivientes que son, generalmente, venenosos. Por ejemplo: serpientes, arañas, ranas, insectos, plantas y hongos; y, también, en objetos contaminantes como lodo y bolsas de basura. \n Una de las principales características generales de los Pokémon de tipo veneno es que su piel o cuerpo es, generalmente, de color morado, excepto los de tipo veneno secundario."
+		},
+		{
+			"id": 15,
+			"name": "Volador",
+			"description": "Los Pokémon de tipo volador son rápidos y con ataques que normalmente son de contacto físico, o en los que utilizan el viento a su favor. En su mayoría, los Pokémon de tipo volador poseen alas, aunque hay excepciones; como Rayquaza y Gyarados, que siempre flotan sin poseer ni alas ni plumas; o Tornadus, Thundurus, Landorus y Enamorus, que montan sobre nubes. Son inmunes al tipo tierra, puesto que, al volar, los ataques de este tipo (salvo ataque arena y mil flechas) no les afectan. Tampoco pueden ser envenenados al entrar a un campo de combate con púas tóxicas ni recibir daño de púas. \n Los Pokémon de tipo volador tienen algunas desventajas. Los Pokémon eléctricos pueden paralizar a los Pokémon voladores haciéndolos caer bruscamente. Los Pokémon de tipo hielo pueden congelar sus alas con la misma consecuencia final que los Pokémon eléctricos. Los Pokémon de tipo roca son tan duros que los ataques de los voladores no les producen apenas daño, y vemos que los tipo planta y bicho son los más débiles frente a los voladores (por su dieta en la vida real)."
+		}
+	],
+	"info-by": "wikidex.net"
+}

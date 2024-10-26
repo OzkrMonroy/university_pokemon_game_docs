@@ -1,0 +1,1228 @@
+{
+	"evolutions_details": [
+		{
+			"pokemon_id": 1,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 16,
+			"special_evolution": false,
+			"pokemon_to_evolution": 2,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 2,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 32,
+			"special_evolution": false,
+			"pokemon_to_evolution": 3,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 3,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 4,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 16,
+			"special_evolution": false,
+			"pokemon_to_evolution": 5,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 5,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 32,
+			"special_evolution": false,
+			"pokemon_to_evolution": 6,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 6,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 7,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 16,
+			"special_evolution": false,
+			"pokemon_to_evolution": 8,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 8,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 36,
+			"special_evolution": false,
+			"pokemon_to_evolution": 9,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 9,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 10,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 7,
+			"special_evolution": false,
+			"pokemon_to_evolution": 11,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 11,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 10,
+			"special_evolution": false,
+			"pokemon_to_evolution": 12,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 12,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 13,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 7,
+			"special_evolution": false,
+			"pokemon_to_evolution": 14,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 14,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 10,
+			"special_evolution": false,
+			"pokemon_to_evolution": 15,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 15,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 16,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 18,
+			"special_evolution": false,
+			"pokemon_to_evolution": 17,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 17,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 36,
+			"special_evolution": false,
+			"pokemon_to_evolution": 18,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 18,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 19,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 20,
+			"special_evolution": false,
+			"pokemon_to_evolution": 20,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 20,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 21,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 20,
+			"special_evolution": false,
+			"pokemon_to_evolution": 22,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 22,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 23,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 22,
+			"special_evolution": false,
+			"pokemon_to_evolution": 24,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 24,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 25,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": true,
+			"pokemon_to_evolution": 26,
+			"element_for_evolution": 4
+		},
+		{
+			"pokemon_id": 26,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 27,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 22,
+			"special_evolution": false,
+			"pokemon_to_evolution": 28,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 28,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 29,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 16,
+			"special_evolution": false,
+			"pokemon_to_evolution": 30,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 30,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": true,
+			"pokemon_to_evolution": 31,
+			"element_for_evolution": 5
+		},
+		{
+			"pokemon_id": 31,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 32,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 16,
+			"special_evolution": false,
+			"pokemon_to_evolution": 33,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 33,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": true,
+			"pokemon_to_evolution": 34,
+			"element_for_evolution": 5
+		},
+		{
+			"pokemon_id": 34,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 35,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": true,
+			"pokemon_to_evolution": 36,
+			"element_for_evolution": 5
+		},
+		{
+			"pokemon_id": 36,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 37,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": true,
+			"pokemon_to_evolution": 38,
+			"element_for_evolution": 2
+		},
+		{
+			"pokemon_id": 38,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 39,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": true,
+			"pokemon_to_evolution": 40,
+			"element_for_evolution": 5
+		},
+		{
+			"pokemon_id": 40,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 41,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 22,
+			"special_evolution": false,
+			"pokemon_to_evolution": 42,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 42,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 43,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 21,
+			"special_evolution": false,
+			"pokemon_to_evolution": 44,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 44,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": true,
+			"pokemon_to_evolution": 45,
+			"element_for_evolution": 3
+		},
+		{
+			"pokemon_id": 45,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 46,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 24,
+			"special_evolution": false,
+			"pokemon_to_evolution": 47,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 47,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 48,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 31,
+			"special_evolution": false,
+			"pokemon_to_evolution": 49,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 49,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 50,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 26,
+			"special_evolution": false,
+			"pokemon_to_evolution": 51,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 51,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 52,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 28,
+			"special_evolution": false,
+			"pokemon_to_evolution": 53,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 53,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 54,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 33,
+			"special_evolution": false,
+			"pokemon_to_evolution": 55,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 55,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 56,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 28,
+			"special_evolution": false,
+			"pokemon_to_evolution": 57,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 57,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 58,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": true,
+			"pokemon_to_evolution": 59,
+			"element_for_evolution": 2
+		},
+		{
+			"pokemon_id": 59,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 60,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 25,
+			"special_evolution": false,
+			"pokemon_to_evolution": 61,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 61,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": true,
+			"pokemon_to_evolution": 62,
+			"element_for_evolution": 1
+		},
+		{
+			"pokemon_id": 62,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 63,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 16,
+			"special_evolution": false,
+			"pokemon_to_evolution": 64,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 64,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 32,
+			"special_evolution": false,
+			"pokemon_to_evolution": 65,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 65,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 66,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 28,
+			"special_evolution": false,
+			"pokemon_to_evolution": 67,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 67,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 40,
+			"special_evolution": false,
+			"pokemon_to_evolution": 68,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 68,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 69,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 21,
+			"special_evolution": false,
+			"pokemon_to_evolution": 70,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 70,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": true,
+			"pokemon_to_evolution": 71,
+			"element_for_evolution": 3
+		},
+		{
+			"pokemon_id": 71,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 72,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 30,
+			"special_evolution": false,
+			"pokemon_to_evolution": 73,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 73,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 74,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 25,
+			"special_evolution": false,
+			"pokemon_to_evolution": 75,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 75,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 42,
+			"special_evolution": false,
+			"pokemon_to_evolution": 76,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 76,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 77,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 40,
+			"special_evolution": false,
+			"pokemon_to_evolution": 78,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 78,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 79,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 37,
+			"special_evolution": false,
+			"pokemon_to_evolution": 80,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 80,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 81,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 30,
+			"special_evolution": false,
+			"pokemon_to_evolution": 82,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 82,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 83,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 84,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 31,
+			"special_evolution": false,
+			"pokemon_to_evolution": 85,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 85,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 86,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 34,
+			"special_evolution": false,
+			"pokemon_to_evolution": 87,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 87,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 88,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 38,
+			"special_evolution": false,
+			"pokemon_to_evolution": 89,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 89,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 90,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": true,
+			"pokemon_to_evolution": 91,
+			"element_for_evolution": 1
+		},
+		{
+			"pokemon_id": 91,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 92,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 25,
+			"special_evolution": false,
+			"pokemon_to_evolution": 93,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 93,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 37,
+			"special_evolution": false,
+			"pokemon_to_evolution": 94,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 94,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 95,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 96,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 26,
+			"special_evolution": false,
+			"pokemon_to_evolution": 97,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 97,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 98,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 28,
+			"special_evolution": false,
+			"pokemon_to_evolution": 99,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 99,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 100,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 30,
+			"special_evolution": false,
+			"pokemon_to_evolution": 101,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 101,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 102,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": true,
+			"pokemon_to_evolution": 103,
+			"element_for_evolution": 3
+		},
+		{
+			"pokemon_id": 103,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 104,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 28,
+			"special_evolution": false,
+			"pokemon_to_evolution": 105,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 105,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 106,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 107,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 108,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 109,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 35,
+			"special_evolution": false,
+			"pokemon_to_evolution": 110,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 110,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 111,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 42,
+			"special_evolution": false,
+			"pokemon_to_evolution": 112,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 112,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 113,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 114,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 115,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 116,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 32,
+			"special_evolution": false,
+			"pokemon_to_evolution": 117,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 117,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 118,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 33,
+			"special_evolution": false,
+			"pokemon_to_evolution": 119,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 119,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 120,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": true,
+			"pokemon_to_evolution": 121,
+			"element_for_evolution": 1
+		},
+		{
+			"pokemon_id": 121,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 122,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 123,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 124,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 125,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 126,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 127,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 128,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 129,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 20,
+			"special_evolution": false,
+			"pokemon_to_evolution": 130,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 130,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 131,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 132,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 133,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": true,
+			"pokemon_to_evolution": 134,
+			"element_for_evolution": 1
+		},
+		{
+			"pokemon_id": 133,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": true,
+			"pokemon_to_evolution": 135,
+			"element_for_evolution": 4
+		},
+		{
+			"pokemon_id": 133,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": true,
+			"pokemon_to_evolution": 136,
+			"element_for_evolution": 2
+		},
+		{
+			"pokemon_id": 134,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 135,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 136,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 137,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 138,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 40,
+			"special_evolution": false,
+			"pokemon_to_evolution": 139,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 139,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 140,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 40,
+			"special_evolution": false,
+			"pokemon_to_evolution": 141,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 141,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 142,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 143,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 144,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 145,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 146,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 147,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 30,
+			"special_evolution": false,
+			"pokemon_to_evolution": 148,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 148,
+			"can_evolution": true,
+			"minimum_exp_for_evolution": 55,
+			"special_evolution": false,
+			"pokemon_to_evolution": 149,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 149,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 150,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		},
+		{
+			"pokemon_id": 151,
+			"can_evolution": false,
+			"minimum_exp_for_evolution": 0,
+			"special_evolution": false,
+			"pokemon_to_evolution": 0,
+			"element_for_evolution": 0
+		}
+	]
+}

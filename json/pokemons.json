@@ -1,0 +1,1735 @@
+{
+	"pokemons": [
+		{
+			"id": 1,
+			"name": "Bulbasaur",
+			"description": "Carga la semilla de una planta en su espalda desde el nacimiento, la semilla se desarrolla lentamente. Los investigadores no saben si calificarlo como una planta o animal. Es extremadamente feroz y muy difícil de capturar en el bosque.",
+			"available": true,
+			"types": [
+				10,
+				14
+			],
+			"evolution_to": [
+				2,
+				3
+			]
+		},
+		{
+			"id": 2,
+			"name": "Ivysaur",
+			"description": "El Pokémon semilla, Ivysaur, forma evolucionada del Bulbasaur. El bulbo en su espalda absorbe nutrientes y se abre en una gran flor.",
+			"available": true,
+			"types": [
+				10,
+				14
+			],
+			"evolution_to": [
+				3
+			]
+		},
+		{
+			"id": 3,
+			"name": "Venusaur",
+			"description": "La forma final de la evolución de un Bulbasaur. Este Pokémon semilla absorbe los rayos del sol como una fuente de energía.",
+			"available": true,
+			"types": [
+				10,
+				14
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 4,
+			"name": "Charmander",
+			"description": "Una flama arde en la punta de su cola desde su nacimiento. Se dice que el Charmander muere si su flama llega a apagarse.",
+			"available": true,
+			"types": [
+				6
+			],
+			"evolution_to": [
+				5,
+				6
+			]
+		},
+		{
+			"id": 5,
+			"name": "Charmeleon",
+			"description": "el Pokémon flamígero. Tiene garras con filo de navaja y su cola es excepcionalmente fuerte.",
+			"available": true,
+			"types": [
+				6
+			],
+			"evolution_to": [
+				6
+			]
+		},
+		{
+			"id": 6,
+			"name": "Charizard",
+			"description": "El Pokémon de fuego. Su poderoso fuego puede derretir absolutamente todo.",
+			"available": true,
+			"types": [
+				6,
+				15
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 7,
+			"name": "Squirtle",
+			"description": "Esta pequeña tortuga Pokémon jala su largo cuello hacia su caparazón para lanzar increíbles ataques de agua con sorprendente alcance y exactitud. El golpe puede ser muy poderoso.",
+			"available": true,
+			"types": [
+				1
+			],
+			"evolution_to": [
+				8,
+				9
+			]
+		},
+		{
+			"id": 8,
+			"name": "Wartortle",
+			"description": "El Pokémon tortuga. La forma evolucionada de Squirtle. Su cola larga y peluda es símbolo de su edad y sabiduría.",
+			"available": true,
+			"types": [
+				1
+			],
+			"evolution_to": [
+				9
+			]
+		},
+		{
+			"id": 9,
+			"name": "Blastoise",
+			"description": "El Pokémon marisco, la forma evolucionada de Wartortle. La fuerza de Blastoise está más en su poder que en su velocidad. Su caparazón es como una armadura y los ataques del hidrocañón en su espalda son prácticamente imparables.",
+			"available": true,
+			"types": [
+				1
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 10,
+			"name": "Caterpie",
+			"description": "El Pokémon gusano. Caterpie usa sus ventosas de succión que tiene en sus patas para trepar árboles y alimentarse con sus hojas.",
+			"available": true,
+			"types": [
+				2
+			],
+			"evolution_to": [
+				11,
+				12
+			]
+		},
+		{
+			"id": 11,
+			"name": "Metapod",
+			"description": "La siguiente etapa del Caterpie. Ha encerrado su cuerpo en una coraza dura. Este espécimen alcanza esta etapa más rápido que cualquier otro Pokémon de esta variedad descubierto hasta ahora.",
+			"available": false,
+			"types": [
+				2
+			],
+			"evolution_to": [
+				12
+			]
+		},
+		{
+			"id": 12,
+			"name": "Butterfree",
+			"description": "Una semana después de que Caterpie se convierte en Metapod, cambia a Butterfree. El amor de Butterfree por el néctar lo lleva a buscar flores, incluso si éstas no tienen mucho polen.",
+			"available": true,
+			"types": [
+				2,
+				15
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 13,
+			"name": "Weedle",
+			"description": "El aguijón en su cabeza le garantiza a cualquier atacante que recibirá un piquete justo en donde duele.",
+			"available": true,
+			"types": [
+				2,
+				14
+			],
+			"evolution_to": [
+				14,
+				15
+			]
+		},
+		{
+			"id": 14,
+			"name": "Kakuna",
+			"description": "Estado de transición entre un Weedle y un Beedrill. Los Kakuna están inactivos hasta que se convierten en Beedrill y abren.",
+			"available": false,
+			"types": [
+				2,
+				14
+			],
+			"evolution_to": [
+				15
+			]
+		},
+		{
+			"id": 15,
+			"name": "Beedrill",
+			"description": "El Pokémon abeja venenosa. Beedrill vuela rápidamente y ataca usando sus aguijones venenosos en sus patas y cola.",
+			"available": false,
+			"types": [
+				2,
+				14
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 16,
+			"name": "Pidgey",
+			"description": "Es un Pokémon volador. De entre todos ellos es el más dócil y el más fácil de capturar. Un blanco perfecto para que el principiante pruebe sus habilidades Pokémon. El poder de aleteo de Pidgey crea tornados y también tormentas de arena.",
+			"available": true,
+			"types": [
+				9,
+				15
+			],
+			"evolution_to": [
+				17,
+				18
+			]
+		},
+		{
+			"id": 17,
+			"name": "Pidgeotto",
+			"description": "Forma evolucionada de Pidgey. Está armado con filosas garras y se lanza desde el cielo para atrapar a su presa. Al contrario del dócil Pidgey, el Pidgeotto puede ser peligroso. Aproxímate con extremo cuidado.",
+			"available": true,
+			"types": [
+				9,
+				15
+			],
+			"evolution_to": [
+				18
+			]
+		},
+		{
+			"id": 18,
+			"name": "Pidgeot",
+			"description": "El Pokémon ave. La forma evolucionada de Pidgeotto. Puede volar al doble de la velocidad del sonido y a una altura de casi 1 kilómetro.",
+			"available": true,
+			"types": [
+				9,
+				15
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 19,
+			"name": "Rattata",
+			"description": "Pokémon del bosque. Le gusta el queso, las nueces, la fruta y las moras. También sale a campo abierto para robar comida de viajeros tontos.",
+			"available": true,
+			"types": [
+				9
+			],
+			"evolution_to": [
+				20
+			]
+		},
+		{
+			"id": 20,
+			"name": "Raticate",
+			"description": "El Pokémon ratón y forma evolucionada de Rattata. Raticate puede roer todo, pues sus dientes nunca dejan de crecer.",
+			"available": true,
+			"types": [
+				9
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 21,
+			"name": "Spearow",
+			"description": "Al contrario del Pidgey, el Spearow tiene un mal carácter. Es muy salvaje y a veces ataca a otros Pokémon y a los humanos.",
+			"available": true,
+			"types": [
+				9,
+				15
+			],
+			"evolution_to": [
+				22
+			]
+		},
+		{
+			"id": 22,
+			"name": "Fearow",
+			"description": "El Pokémon pico. La forma evolucionada de Spearow. Sus largas y poderosas alas le permiten volar durante todo un día. La fuerza demoledora de su pico es tremenda.",
+			"available": true,
+			"types": [
+				9,
+				15
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 23,
+			"name": "Ekans",
+			"description": "Es fácil encontrarlo en praderas y zonas similares. A este Pokémon le basta con sacar la lengua para detectar el peligro.",
+			"available": true,
+			"types": [
+				14
+			],
+			"evolution_to": [
+				24
+			]
+		},
+		{
+			"id": 24,
+			"name": "Arbok",
+			"description": "Este Pokémon es tremendamente fuerte, puede oprimir cualquier cosa con su cuerpo y hasta es capaz de estrujar un barril de acero. Una vez que Arbok se enrosca a su víctima, no hay forma de escapar de su asfixiante abrazo.",
+			"available": true,
+			"types": [
+				14
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 25,
+			"name": "Pikachu",
+			"description": "El Pokémon ratón. Puede generar ataques eléctricos en las bolitas que tiene en ambas mejillas.",
+			"available": true,
+			"types": [
+				4
+			],
+			"evolution_to": [
+				26
+			]
+		},
+		{
+			"id": 26,
+			"name": "Raichu",
+			"description": "Un ratón Pokémon del elemento eléctrico. Raichu es la forma evolucionada de Pikachu. Puede hacer descargas de más de 100 mil voltios suficientes para dejar inconsciente a un Dragonite.",
+			"available": true,
+			"types": [
+				4
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 27,
+			"name": "Sandshrew",
+			"description": "El Pokémon ratón. Sandshrew odia la humedad y vive en hoyos secos. Se protege al hacerse bolita.",
+			"available": true,
+			"types": [
+				13
+			],
+			"evolution_to": [
+				28
+			]
+		},
+		{
+			"id": 28,
+			"name": "Sandslash",
+			"description": "El Pokémon ratón. La forma evolucionada de Sandshrew. Ataca a sus oponentes con las espinas de su espalda.",
+			"available": true,
+			"types": [
+				13
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 29,
+			"name": "Nidoran ♀",
+			"description": "Nidoran hembra, tipo veneno. Es muy poderosa con sus ataques, pero sus espinas son más pequeñas que las del macho.",
+			"available": true,
+			"types": [
+				14
+			],
+			"evolution_to": [
+				30,
+				31
+			]
+		},
+		{
+			"id": 30,
+			"name": "Nidorina",
+			"description": "El Pokémon tipo veneno. La forma evolucionada del Nidoran hembra. Emite ondas supersónicas con su boca para confundir a sus enemigos.",
+			"available": true,
+			"types": [
+				14
+			],
+			"evolution_to": [
+				31
+			]
+		},
+		{
+			"id": 31,
+			"name": "Nidoqueen",
+			"description": "La Pokémon taladro. Nidoqueen tiene una piel muy gruesa que protege todo su cuerpo y la protege de cualquier técnica con que se le ataque.",
+			"available": true,
+			"types": [
+				14,
+				13
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 32,
+			"name": "Nidoran ♂",
+			"description": "Nidoran macho, el Pokémon tipo veneno. Su cuerno es más grande que el de la hembra y su ataque de cuerno es muy poderoso.",
+			"available": true,
+			"types": [
+				14
+			],
+			"evolution_to": [
+				33,
+				34
+			]
+		},
+		{
+			"id": 33,
+			"name": "Nidorino",
+			"description": "El Pokémon tipo veneno. La forma evolucionada del Nidoran macho. Su cuerno, altamente evolucionado, es extremadamente poderoso.",
+			"available": true,
+			"types": [
+				14
+			],
+			"evolution_to": [
+				34
+			]
+		},
+		{
+			"id": 34,
+			"name": "Nidoking",
+			"description": "El Pokémon taladro, Nidoking balancea su larga cola para crear distancia luego la recarga con toda la fuerza de su cuerpo.",
+			"available": true,
+			"types": [
+				14,
+				13
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 35,
+			"name": "Clefairy",
+			"description": "Este pícaro Pokémon es amistoso y pacífico. Se cree que vive dentro del Monte Lunar, aunque muy pocos han sido vistos por humanos.",
+			"available": true,
+			"types": [
+				9
+			],
+			"evolution_to": [
+				36
+			]
+		},
+		{
+			"id": 36,
+			"name": "Clefable",
+			"description": "Una forma avanzada de Clefairy. Estas criaturas únicas están entre los Pokémon más raros del mundo.",
+			"available": true,
+			"types": [
+				9
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 37,
+			"name": "Vulpix",
+			"description": "Un Pokémon zorro. Sus seis colas son extremadamente hermosas. Al evolucionar produce aún más colas. Vulpix usa poderosos ataques con llamas.",
+			"available": true,
+			"types": [
+				6
+			],
+			"evolution_to": [
+				38
+			]
+		},
+		{
+			"id": 38,
+			"name": "Ninetales",
+			"description": "El Pokémon zorro. La forma evolucionada de Vulpix. Tiene nueve colas y una brillante piel dorada. Se dice que los Ninetales llegan a tener largas vidas.",
+			"available": true,
+			"types": [
+				6
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 39,
+			"name": "Jigglypuff",
+			"description": "Un Pokémon globo. Tiene ojos grandes y amigables y canta una canción muy placentera.",
+			"available": true,
+			"types": [
+				9
+			],
+			"evolution_to": [
+				40
+			]
+		},
+		{
+			"id": 40,
+			"name": "Wigglytuff",
+			"description": "Wigglytuff tiene unos ojos enormes con forma de platillo, que siempre están cubiertos de lágrimas. Si se le metiera algo en el ojo, enseguida se le saldría solo.",
+			"available": true,
+			"types": [
+				9
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 41,
+			"name": "Zubat",
+			"description": "Pokémon volador con poderes supersónicos. Vive en cuevas y odia salir a volar con luz del día.",
+			"available": true,
+			"types": [
+				14,
+				15
+			],
+			"evolution_to": [
+				42
+			]
+		},
+		{
+			"id": 42,
+			"name": "Golbat",
+			"description": "Pokémon murciélago. La forma evolucionada de Zubat. Tiene cuatro colmillos filosos y emite ondas supersónicas más poderosas que las de Zubat.",
+			"available": true,
+			"types": [
+				14,
+				15
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 43,
+			"name": "Oddish",
+			"description": "Es típico encontrarlo vagando por los bosques y va regando polen mientras camina.",
+			"available": true,
+			"types": [
+				10,
+				14
+			],
+			"evolution_to": [
+				44,
+				45
+			]
+		},
+		{
+			"id": 44,
+			"name": "Gloom",
+			"description": "El Pokémon alga. Gloom emite un olor muy desagradable. Es muy fuerte contra los Pokémon tipo agua pero muy débil contra los de tipo fuego y voladores.",
+			"available": true,
+			"types": [
+				10,
+				14
+			],
+			"evolution_to": [
+				45
+			]
+		},
+		{
+			"id": 45,
+			"name": "Vileplume",
+			"description": "El Pokémon flor. Usando los pétalos de flor más grandes del mundo, este lanza grandes cantidades de polen que causan reacciones alérgicas.",
+			"available": true,
+			"types": [
+				10,
+				14
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 46,
+			"name": "Paras",
+			"description": "El Pokémon hongo. En su lomo crecen extraños hongos. Paras tiene las cualidades de los Pokémon bicho y hierba.",
+			"available": true,
+			"types": [
+				2,
+				10
+			],
+			"evolution_to": [
+				47
+			]
+		},
+		{
+			"id": 47,
+			"name": "Parasect",
+			"description": "El Pokémon hongo. Pelea usando esporas veneno, que provienen de la capa de hongo en su espalda.",
+			"available": true,
+			"types": [
+				2,
+				10
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 48,
+			"name": "Venonat",
+			"description": "Un Pokémon insecto. Sus ojos funcionan como radar permitiéndole ver en la oscuridad.",
+			"available": true,
+			"types": [
+				2,
+				14
+			],
+			"evolution_to": [
+				49
+			]
+		},
+		{
+			"id": 49,
+			"name": "Venomoth",
+			"description": "Una forma evolucionada del Venonat. Pequeñas escamas en sus alas se dispersan cuando este aletea.",
+			"available": true,
+			"types": [
+				2,
+				14
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 50,
+			"name": "Diglett",
+			"description": "El movimiento de esos Pokémon subterráneos puede ser fácilmente detectado por sus huellas en la tierra revuelta.",
+			"available": true,
+			"types": [
+				13
+			],
+			"evolution_to": [
+				51
+			]
+		},
+		{
+			"id": 51,
+			"name": "Dugtrio",
+			"description": "Se forma cuando tres Diglett se combinan. Este Pokémon hace túneles profundos bajo la superficie de la tierra.",
+			"available": true,
+			"types": [
+				13
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 52,
+			"name": "Meowth",
+			"description": "El Pokémon gato rasguño. Meowth adora maullar en la noche para conseguir monedas y otros objetos que brillen, pero pasa la mayor parte del día durmiendo.",
+			"available": true,
+			"types": [
+				9
+			],
+			"evolution_to": [
+				53
+			]
+		},
+		{
+			"id": 53,
+			"name": "Persian",
+			"description": "El Pokémon gato elegante y la forma evolucionada de Meowth. Persian camina silencioso gracias a sus ágiles músculos. Se abalanza sobre su presa a la velocidad de la luz.",
+			"available": true,
+			"types": [
+				9
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 54,
+			"name": "Psyduck",
+			"description": "Pokémon acuático. Cuando la jaqueca de Psyduck se vuelve severa, genera poderes asombrosos.",
+			"available": true,
+			"types": [
+				1
+			],
+			"evolution_to": [
+				55
+			]
+		},
+		{
+			"id": 55,
+			"name": "Golduck",
+			"description": "El Pokémon pato. La forma evolucionada de Psyduck. Golduck es muy ágil en usar sus manos y pies palmeadas para hacerlo el Pokémon nadador más rápido de todos.",
+			"available": true,
+			"types": [
+				1
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 56,
+			"name": "Mankey",
+			"description": "Un Pokémon simio del tipo pelea conocido por sus miembros superiores que dan poderosos golpes. Aunque el Mankey generalmente es calmado, tiene un mal temperamento. Cuando el Mankey empieza a arremeter, es imposible detenerlo.",
+			"available": true,
+			"types": [
+				8
+			],
+			"evolution_to": [
+				57
+			]
+		},
+		{
+			"id": 57,
+			"name": "Primeape",
+			"description": "Si haces contacto visual con esta forma evolucionada de Mankey, se terminó todo. El Primeape te perseguirá para siempre. Cuando el Primeape inicia su ataque más fuerte, arremeter, queda completamente fuera de control.",
+			"available": true,
+			"types": [
+				8
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 58,
+			"name": "Growlithe",
+			"description": "Un cachorro Pokémon de buen carácter y gran inteligencia. Aleja a sus enemigos con ladridos y mordidas.",
+			"available": true,
+			"types": [
+				6
+			],
+			"evolution_to": [
+				59
+			]
+		},
+		{
+			"id": 59,
+			"name": "Arcanine",
+			"description": "Un Pokémon legendario. La forma evolucionada de Growlithe. Arcanine es conocido por su bravura y gran lealtad. Growlithe evoluciona en Arcanine con el uso de una roca fuego.",
+			"available": true,
+			"types": [
+				6
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 60,
+			"name": "Poliwag",
+			"description": "El Pokémon renacuajo. No tiene brazos, pero su cola lo hace un nadador fuerte.",
+			"available": true,
+			"types": [
+				1
+			],
+			"evolution_to": [
+				61,
+				62
+			]
+		},
+		{
+			"id": 61,
+			"name": "Poliwhirl",
+			"description": "El Pokémon renacuajo. Sus músculos altamente desarrollados le permiten moverse eficazmente en tierra, pero es mucho más ágil en el agua.",
+			"available": true,
+			"types": [
+				1
+			],
+			"evolution_to": [
+				62
+			]
+		},
+		{
+			"id": 62,
+			"name": "Poliwrath",
+			"description": "El Pokémon renacuajo. Poliwrath es un excelente nadador y sus poderosos músculos hacen sus ataques puedan llegar a ser extremadamente efectivos.",
+			"available": true,
+			"types": [
+				1,
+				8
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 63,
+			"name": "Abra",
+			"description": "Un Pokémon con poderes psíquicos. Duerme 18 horas al día, pero emplea la telequinesis aún mientras duerme.",
+			"available": true,
+			"types": [
+				11
+			],
+			"evolution_to": [
+				64,
+				65
+			]
+		},
+		{
+			"id": 64,
+			"name": "Kadabra",
+			"description": "Un Pokémon psíquico. La forma evolucionada de Abra. Emplea poderosos ataques telequinéticos.",
+			"available": true,
+			"types": [
+				11
+			],
+			"evolution_to": [
+				65
+			]
+		},
+		{
+			"id": 65,
+			"name": "Alakazam",
+			"description": "Un Pokémon psíquico. Este Pokémon usa ataques psíquicos para superar a sus oponentes.",
+			"available": true,
+			"types": [
+				11
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 66,
+			"name": "Machop",
+			"description": "Su cuerpo está hecho de puro músculo. Su ataque especial es el lanzamiento letal.",
+			"available": true,
+			"types": [
+				8
+			],
+			"evolution_to": [
+				67,
+				68
+			]
+		},
+		{
+			"id": 67,
+			"name": "Machoke",
+			"description": "El Pokémon superpoderoso. Tiene tanta fuerza como para levantar un camión con una mano. Con frecuencia lo usan para trabajos muy pesados.",
+			"available": true,
+			"types": [
+				8
+			],
+			"evolution_to": [
+				68
+			]
+		},
+		{
+			"id": 68,
+			"name": "Machamp",
+			"description": "El Pokémon superpoder. Tipo peleador. Los cuatro brazos de Machamp se mueven por reflejo, lo que lo hace muy veloz y le permite lanzar golpes muy rápido.",
+			"available": true,
+			"types": [
+				8
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 69,
+			"name": "Bellsprout",
+			"description": "El Pokémon flor. Tipo planta y veneno. Bellsprout ama las altas temperaturas y la humedad. Puede alcanzar una gran velocidad cuando extiende sus raíces para tomar algo.",
+			"available": true,
+			"types": [
+				10,
+				14
+			],
+			"evolution_to": [
+				70,
+				71
+			]
+		},
+		{
+			"id": 70,
+			"name": "Weepinbell",
+			"description": "El Pokémon matamoscas. Weepinbell parece una planta y cubre a sus oponentes con un polvo venenoso para atraparlos.",
+			"available": true,
+			"types": [
+				10,
+				14
+			],
+			"evolution_to": [
+				71
+			]
+		},
+		{
+			"id": 71,
+			"name": "Victreebel",
+			"description": "Tiene una enredadera que le sale de la cabeza. Cuando la agita y colea, recuerda a un animal y así consigue atraer a sus presas. Si se le acerca un rival, lo engulle.",
+			"available": true,
+			"types": [
+				10,
+				14
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 72,
+			"name": "Tentacool",
+			"description": "Un Pokémon medusa. El 99% de su cuerpo está hecho de agua.",
+			"available": true,
+			"types": [
+				1,
+				14
+			],
+			"evolution_to": [
+				73
+			]
+		},
+		{
+			"id": 73,
+			"name": "Tentacruel",
+			"description": "Un Pokémon medusa. Una forma evolucionada del Tentacool. Sus numerosos tentáculos le sirven como un arma poderosa. Es conocido como el gangster del mar.",
+			"available": true,
+			"types": [
+				1,
+				14
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 74,
+			"name": "Geodude",
+			"description": "El Pokémon roca. Geodude tiene un increíble poder defensivo que lo hace distualmente resistente a cualquier ataque físico.",
+			"available": true,
+			"types": [
+				12,
+				13
+			],
+			"evolution_to": [
+				75,
+				76
+			]
+		},
+		{
+			"id": 75,
+			"name": "Graveler",
+			"description": "Graveler crece alimentándose a base de piedras. Y, según parece, las prefiere cubiertas de musgo. Cada día se abre camino comiéndose toneladas de rocas.",
+			"available": true,
+			"types": [
+				12,
+				13
+			],
+			"evolution_to": [
+				76
+			]
+		},
+		{
+			"id": 76,
+			"name": "Golem",
+			"description": "Un Pokémon megatón. Una vez al año cambia su concha de roca y se hace más grande.",
+			"available": true,
+			"types": [
+				12,
+				13
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 77,
+			"name": "Ponyta",
+			"description": "Un caballo de fuego. La crin de este hermoso Pokémon está hecha de intensas llamas.",
+			"available": true,
+			"types": [
+				6
+			],
+			"evolution_to": [
+				78
+			]
+		},
+		{
+			"id": 78,
+			"name": "Rapidash",
+			"description": "El Pokémon caballo fuego. De tipo fuego. Rapidash ama galopar. Siempre quiere competir cuando ve un objeto moverse muy rápido.",
+			"available": true,
+			"types": [
+				6
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 79,
+			"name": "Slowpoke",
+			"description": "El Pokémon bobo. Nadie puede decir lo que Slowpoke está pensando, si es que piensa. Su especialidad es pescar con la cola.",
+			"available": true,
+			"types": [
+				1,
+				11
+			],
+			"evolution_to": [
+				80
+			]
+		},
+		{
+			"id": 80,
+			"name": "Slowbro",
+			"description": "El Pokémon granjero ermitaño. Slowbro es capaz de utilizar poderosos ataques psíquicos, pero prefiere evitar los conflictos.",
+			"available": true,
+			"types": [
+				1,
+				11
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 81,
+			"name": "Magnemite",
+			"description": "El Pokémon magneto. Es capaz de flotar en el aire y emite ondas trueno a través de las unidades en forma de magneto ubicadas a sus lados.",
+			"available": true,
+			"types": [
+				4
+			],
+			"evolution_to": [
+				82
+			]
+		},
+		{
+			"id": 82,
+			"name": "Magneton",
+			"description": "El Pokémon magneto. La forma evolucionada de Magnemite. Sus poderes antigravitacionales le permiten flotar y pueden emitir poderosos campos eléctricos y magnéticos.",
+			"available": true,
+			"types": [
+				4
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 83,
+			"name": "Farfetch'd",
+			"description": "Farfetch'd, el pato salvaje Pokémon. Este Pokémon extremadamente raro siempre se encuentra sujetando un puerro o un cebollín verde que usa para construir su nido.",
+			"available": true,
+			"types": [
+				9,
+				15
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 84,
+			"name": "Doduo",
+			"description": "El Pokémon ave gemela. Cuando sus cabezas se empiezan a pelear entre ellas, Doduo ha quedado incapacitado.",
+			"available": true,
+			"types": [
+				9,
+				15
+			],
+			"evolution_to": [
+				85
+			]
+		},
+		{
+			"id": 85,
+			"name": "Dodrio",
+			"description": "Un ave Pokémon de tres cabezas que puede correr más rápido de lo que vuela. Sus tres cabezas representan a la dicha, la pena y la ira.",
+			"available": true,
+			"types": [
+				9,
+				15
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 86,
+			"name": "Seel",
+			"description": "Seel busca a sus presas en aguas heladas, bajo las capas de hielo. Cuando necesita respirar, abre un agujero en el hielo con la afilada protuberancia que tiene encima de la cabeza.",
+			"available": true,
+			"types": [
+				1
+			],
+			"evolution_to": [
+				87
+			]
+		},
+		{
+			"id": 87,
+			"name": "Dewgong",
+			"description": "La forma evolucionada de Seel. Este Pokémon de agua y hielo puede resistir muy bajas temperaturas.",
+			"available": true,
+			"types": [
+				1,
+				7
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 88,
+			"name": "Grimer",
+			"description": "Un Pokémon de lodo. Nacido del lodo, esos Pokémon se especializan en ataques de lodo.",
+			"available": true,
+			"types": [
+				14
+			],
+			"evolution_to": [
+				89
+			]
+		},
+		{
+			"id": 89,
+			"name": "Muk",
+			"description": "Forma evolucionada del Grimer. Tengan mucha precaución, ya que su forma viscosa contiene veneno.",
+			"available": true,
+			"types": [
+				14
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 90,
+			"name": "Shellder",
+			"description": "Su caparazón repele cualquier tipo de ataque. Sólo cuando abre su caparazón es vulnerable.",
+			"available": true,
+			"types": [
+				1
+			],
+			"evolution_to": [
+				91
+			]
+		},
+		{
+			"id": 91,
+			"name": "Cloyster",
+			"description": "El Pokémon marino. Su concha es increíblemente fuerte y resiste hasta una bomba. Solo abre su concha cuando ataca.",
+			"available": true,
+			"types": [
+				1
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 92,
+			"name": "Gastly",
+			"description": "Un Pokémon fantasma. Es normalmente invisible. Su especialidad es la hipnosis",
+			"available": true,
+			"types": [
+				5,
+				14
+			],
+			"evolution_to": [
+				93,
+				94
+			]
+		},
+		{
+			"id": 93,
+			"name": "Haunter",
+			"description": "El Pokémon gas. Después de evolucionar de Gastly, este Haunter puede aprender a comer sueños y ataques psíquicos.",
+			"available": true,
+			"types": [
+				5,
+				14
+			],
+			"evolution_to": [
+				94
+			]
+		},
+		{
+			"id": 94,
+			"name": "Gengar",
+			"description": "Un Pokémon sombra. La forma evolucionada de Haunter. Los detalles sobre este Pokémon son desconocidos.",
+			"available": true,
+			"types": [
+				5,
+				14
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 95,
+			"name": "Onix",
+			"description": "Onix, el Pokémon serpiente roca. Al girar su cuerpo grande y poderoso, Onix puede perforar rápidamente la tierra a 80 km/h.",
+			"available": true,
+			"types": [
+				12,
+				13
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 96,
+			"name": "Drowzee",
+			"description": "El Pokémon hipnótico. Se dice que se alimenta de los sueños de sus oponentes y es conocido por su poderoso ataque psíquico.",
+			"available": true,
+			"types": [
+				11
+			],
+			"evolution_to": [
+				97
+			]
+		},
+		{
+			"id": 97,
+			"name": "Hypno",
+			"description": "Un Pokémon hipnótico. Tiene un aparato como péndulo y realiza ataques hipnóticos.",
+			"available": true,
+			"types": [
+				11
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 98,
+			"name": "Krabby",
+			"description": "El Pokémon cangrejo. Vive en playas arenosas en las madrigueras que excava. Las pinzas de Krabby pueden volver a crecer si se rompen en la batalla.",
+			"available": true,
+			"types": [
+				1
+			],
+			"evolution_to": [
+				99
+			]
+		},
+		{
+			"id": 99,
+			"name": "Kingler",
+			"description": "La forma evolucionada de Krabby. Un Pokémon tenaz cuyas pinzas endurecidas pueden cerrar con el poder de 10.000 caballos de fuerza.",
+			"available": true,
+			"types": [
+				1
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 100,
+			"name": "Voltorb",
+			"description": "Este misterioso Pokémon usa fuertes ataques eléctricos y a menudo se encuentra cerca de plantas de energía. Use extrema precaución porque puede explotar sin advertencias.",
+			"available": true,
+			"types": [
+				4
+			],
+			"evolution_to": [
+				101
+			]
+		},
+		{
+			"id": 101,
+			"name": "Electrode",
+			"description": "La forma evolucionada de Voltorb. La energía altamente concentrada causa que este Pokémon explote imprevisiblemente. También es conocido como la \"Bola Bomba\".",
+			"available": true,
+			"types": [
+				4
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 102,
+			"name": "Exeggcute",
+			"description": "Un huevo Pokémon. Aunque se parece a un huevo, se sabe que es un pariente más cercano de las semillas de una planta.",
+			"available": true,
+			"types": [
+				10,
+				11
+			],
+			"evolution_to": [
+				103
+			]
+		},
+		{
+			"id": 103,
+			"name": "Exeggutor",
+			"description": "Un Pokémon palmera. También conocido como la selva tropical andante. Cada palmera tiene una cara distinta y su propio carácter. Su ataque especial es la hipnosis.",
+			"available": true,
+			"types": [
+				10,
+				11
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 104,
+			"name": "Cubone",
+			"description": "Cubone, el Pokémon solitario. Tipo tierra. Cubone usa un cráneo como casco para ocultar su cara mientras vierte lágrimas por la madre que perdió hace mucho. Llora con intensidad para expresar su soledad, además siempre lleva un hueso largo y grueso.",
+			"available": true,
+			"types": [
+				13
+			],
+			"evolution_to": [
+				105
+			]
+		},
+		{
+			"id": 105,
+			"name": "Marowak",
+			"description": "Un Pokémon porta huesos. A pesar de su pequeño tamaño, su fuerza defensiva y ofensiva son impresionantes.",
+			"available": true,
+			"types": [
+				13
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 106,
+			"name": "Hitmonlee",
+			"description": "El Pokémon pateador. Puede extender y retraer sus piernas a voluntad para patear a sus oponentes a cualquier distancia.",
+			"available": true,
+			"types": [
+				8
+			],
+			"evolution_to": [
+				107
+			]
+		},
+		{
+			"id": 107,
+			"name": "Hitmonchan",
+			"description": "Un hábil Pokémon peleador que tiene un golpe increíblemente rápido.",
+			"available": true,
+			"types": [
+				8
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 108,
+			"name": "Lickitung",
+			"description": "El Pokémon lamedor. Usa su lengua que es 2 veces más larga que su cuerpo para pelear y para obtener comida.",
+			"available": true,
+			"types": [
+				9
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 109,
+			"name": "Koffing",
+			"description": "El Pokémon gas veneno. Koffing rocía el aire gracias a los gases tóxicos que contiene, tiene un olor fétido y pueden explotar.",
+			"available": true,
+			"types": [
+				14
+			],
+			"evolution_to": [
+				110
+			]
+		},
+		{
+			"id": 110,
+			"name": "Weezing",
+			"description": "A Weezing le encantan los gases que emanan de los desperdicios que quedan en la cocina. Este Pokémon busca casas sucias y abandonadas para crear su hogar. De noche, cuando los habitantes de la casa duermen, va a por la basura.",
+			"available": true,
+			"types": [
+				14
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 111,
+			"name": "Rhyhorn",
+			"description": "El Pokémon clavos. Rhyhorn embiste temerariamente de frente, arrasando con todo lo que se interponga en su camino.",
+			"available": true,
+			"types": [
+				12,
+				13
+			],
+			"evolution_to": [
+				112
+			]
+		},
+		{
+			"id": 112,
+			"name": "Rhydon",
+			"description": "La forma evolucionada de Rhyhorn es conocida como el Pokémon taladro. Su largo cuerno le da un formidable poder de ataque.",
+			"available": true,
+			"types": [
+				12,
+				13
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 113,
+			"name": "Chansey",
+			"description": "El Pokémon huevo y la forma evolucionada de Happiny. Chansey es un Pokémon amable que da huevos a los que están enfermos o heridos.",
+			"available": true,
+			"types": [
+				9
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 114,
+			"name": "Tangela",
+			"description": "Un Pokémon enredadera. Su cuerpo está envuelto en ramas. El resto de su forma está oculto bajo esas ramas.",
+			"available": true,
+			"types": [
+				10
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 115,
+			"name": "Kangaskhan",
+			"description": "Un Pokémon padre. Aunque alguna vez estuvieron cerca de extinguirse, ahora están protegidos por la ley y habitan en la Zona Safari. Aproxímese con extrema precaución, el Kangaskhan es un Pokémon raro que cría a su hijo en una bolsa, atacarán ferozmente y sin advertencia si sienten que su cría está amenazada de algún modo.",
+			"available": true,
+			"types": [
+				9
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 116,
+			"name": "Horsea",
+			"description": "Un Pokémon dragón. Esta especie única de Pokémon pone miles de huevos cada primavera y luego el macho se encarga de criarlos.",
+			"available": true,
+			"types": [
+				1
+			],
+			"evolution_to": [
+				117
+			]
+		},
+		{
+			"id": 117,
+			"name": "Seadra",
+			"description": "Un Pokémon dragón. La forma evolucionada de Horsea. Seadra tiene un temperamento violento y las espinas que cubren su cuerpo dejan inconsciente a su víctima.",
+			"available": true,
+			"types": [
+				1
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 118,
+			"name": "Goldeen",
+			"description": "El Pokémon pez color. Tipo agua. Cuando la temperatura sube, Goldeen forma grupos y nada río arriba. Dicen que esa es la señal de que la primavera ha llegado.",
+			"available": true,
+			"types": [
+				1
+			],
+			"evolution_to": [
+				119
+			]
+		},
+		{
+			"id": 119,
+			"name": "Seaking",
+			"description": "El Pokémon pez dorado. Seaking es la forma evolucionada de Goldeen. Su cuerno en forma de barrena es capaz de romper cualquier piedra.",
+			"available": true,
+			"types": [
+				1
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 120,
+			"name": "Staryu",
+			"description": "El centro de este Pokémon acuático brilla en un arco iris de siete colores, un centro que es valuado por algunos como una joya.",
+			"available": true,
+			"types": [
+				1
+			],
+			"evolution_to": [
+				121
+			]
+		},
+		{
+			"id": 121,
+			"name": "Starmie",
+			"description": "La parte central de Starmie (el núcleo brillante) resplandece con siete colores distintos. Debido a su naturaleza luminosa, a este Pokémon se le ha dado el apelativo de \"la gema del mar\".",
+			"available": true,
+			"types": [
+				1,
+				11
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 122,
+			"name": "Mr. Mime",
+			"description": "El Pokémon barrera. Usa su pantomima para aparecer paredes reales. Debido a que fue recientemente descubierto, la información sobre este Pokémon es extremadamente limitada.",
+			"available": true,
+			"types": [
+				11
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 123,
+			"name": "Scyther",
+			"description": "El Pokémon mantis. Sus garras son filosas como espadas y es un volador poderoso. Este Pokémon rara vez es visto por humanos y casi nunca capturado.",
+			"available": true,
+			"types": [
+				2,
+				15
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 124,
+			"name": "Jynx",
+			"description": "El Pokémon de forma humana. Este Pokémon tiene algunos poderes inusuales. Su ataque especial es el beso amoroso, que deja a su oponente en un profundo sueño.",
+			"available": true,
+			"types": [
+				11,
+				7
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 125,
+			"name": "Electabuzz",
+			"description": "El Pokémon eléctrico. Electabuzz es la forma evolucionada de Elekid. Debido a la poderosa corriente eléctrica que corre constantemente por su cuerpo, Electabuzz parece que brilla.",
+			"available": true,
+			"types": [
+				4
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 126,
+			"name": "Magmar",
+			"description": "El Pokémon escupe fuego. Su cuerpo se mantiene a altas temperaturas. Solo ha sido descubierto en volcanes activos.",
+			"available": true,
+			"types": [
+				6
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 127,
+			"name": "Pinsir",
+			"description": "Este temido y peligroso Pokémon usa sus poderosas pinzas para prensar y aplastar a sus oponentes.",
+			"available": true,
+			"types": [
+				2
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 128,
+			"name": "Tauros",
+			"description": "Un Pokémon toro salvaje. Cuando se golpea a sí mismo con sus tres colas, su ataque es una poderosa fuerza destructiva. \n Su movimiento característico es placaje. Dado a su carácter dócil, no te atacaran sin haber sido molestados primero.",
+			"available": true,
+			"types": [
+				9
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 129,
+			"name": "Magikarp",
+			"description": "El Pokémon pez. Magikarp puede vivir en el agua más sucia. Salta muy alto y evoluciona en Gyarados.",
+			"available": true,
+			"types": [
+				1
+			],
+			"evolution_to": [
+				130
+			]
+		},
+		{
+			"id": 130,
+			"name": "Gyarados",
+			"description": "Este Pokémon tiene un temperamento malvado así que ten mucha precaución. Sus colmillos pueden destrozar rocas y sus escamas son más duras que el acero.",
+			"available": true,
+			"types": [
+				1,
+				15
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 131,
+			"name": "Lapras",
+			"description": "Este Pokémon intelectualmente avanzado es capaz de entender el idioma humano. Por su suave temperamento, Lapras prefiere cargar a los humanos en su espalda a entablar batallas Pokémon.",
+			"available": true,
+			"types": [
+				1,
+				7
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 132,
+			"name": "Ditto",
+			"description": "Un Pokémon transformer. Es capaz de reordenar las células de su cuerpo y asumir cualquier forma. Su único ataque es la transformación.",
+			"available": true,
+			"types": [
+				9
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 133,
+			"name": "Eevee",
+			"description": "El Pokémon evolutivo.  Eevee evoluciona en uno de estos tres Pokémon dependiendo de qué roca se use con él. Usando una roca de fuego producirás un Flareon, el Pokémon de fuego. Una roca acuática producirá un Vaporeon, el Pokémon burbuja hielo. Y una roca trueno produce un Jolteon, el Pokémon rayo.",
+			"available": true,
+			"types": [
+				9
+			],
+			"evolution_to": [
+				134,
+				135,
+				136
+			]
+		},
+		{
+			"id": 134,
+			"name": "Vaporeon",
+			"description": "Vaporeon, el Pokémon que hace burbujas. A Vaporeon le encanta el agua limpia y fresca y también puede deshacer su cuerpo dentro del agua.",
+			"available": true,
+			"types": [
+				1
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 135,
+			"name": "Jolteon",
+			"description": "El Pokémon rayo. Cuando se enoja o se asusta el pelo de su cuerpo se convierte en agujas que disparan a sus oponentes. Absorbe los átomos cargados y pueden producir 10.000 voltios de electricidad.",
+			"available": true,
+			"types": [
+				4
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 136,
+			"name": "Flareon",
+			"description": "El Pokémon flama. Flareon es la forma evolucionada de Eevee, el aire que emana es encendido por una flama dentro de su cuerpo y la expulsa como fuego.",
+			"available": true,
+			"types": [
+				6
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 137,
+			"name": "Porygon",
+			"description": "Porygon es capaz de convertirse otra vez en datos informáticos y de entrar en el ciberespacio. Tiene protección anti-copia, así que es imposible duplicarlo.",
+			"available": true,
+			"types": [
+				9
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 138,
+			"name": "Omanyte",
+			"description": "El Pokémon espiral. Vivía hace dos millones de años. Investigaciones indican que podían controlar su sistema de flotación introduciendo y midiendo aire con sus conchas.",
+			"available": true,
+			"types": [
+				12,
+				1
+			],
+			"evolution_to": [
+				139
+			]
+		},
+		{
+			"id": 139,
+			"name": "Omastar",
+			"description": "La forma evolucionada de Omanyte. Este Pokémon extinto usaba agudos colmillos para romper las conchas de sus presas para alimentarse.",
+			"available": true,
+			"types": [
+				12,
+				1
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 140,
+			"name": "Kabuto",
+			"description": "Kabuto, el Pokémon antiguo. Aunque se piensa que este Pokémon ahora está extinto, este tenía un duro caparazón que protegía a su cuerpo y se piensa que era un poderoso nadador.",
+			"available": false,
+			"types": [
+				12,
+				1
+			],
+			"evolution_to": [
+				141
+			]
+		},
+		{
+			"id": 141,
+			"name": "Kabutops",
+			"description": "Se cree que esos Pokémon se extinguieron hace decenas de miles de años, los detalles de su comportamiento están envueltos en el misterio. Aunque algunos han especulado que aún pueden existir, ninguno de estos Pokémon han sido vistos jamas.",
+			"available": false,
+			"types": [
+				12,
+				1
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 142,
+			"name": "Aerodactyl",
+			"description": "Un Pokémon volador extinto. Sus largos colmillos sugieren que era un carnívoro. Sus filosas garras eran tal vez usadas para capturar a sus presas.",
+			"available": true,
+			"types": [
+				12,
+				15
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 143,
+			"name": "Snorlax",
+			"description": "El Pokémon dormilón. Solo despierta para comer. Snorlax es la especie más pesada de los Pokémon conocidos. Algunos pesan más de 500 kilogramos. El hambre de Snorlax no está satisfecho hasta que ingiere 400 kilogramos de comida. Entonces se vuelve a dormir.",
+			"available": true,
+			"types": [
+				9
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 144,
+			"name": "Articuno",
+			"description": "El Pokémon helado. Este legendario Pokémon con alas como delgadas hojas de hielo, se cree que posee la habilidad de congelar el vapor de agua y crear nieve.",
+			"available": true,
+			"types": [
+				7,
+				15
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 145,
+			"name": "Zapdos",
+			"description": "El Pokémon eléctrico legendario. Zapdos tiene unos segmentos eléctricos de vuelo y el movimiento de sus alas puede crear rayos.",
+			"available": true,
+			"types": [
+				4,
+				15
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 146,
+			"name": "Moltres",
+			"description": "Un Pokémon legendario. Sus virtudes simbolizan las competencias de la liga Pokémon. Cuando está herido, Moltres entra en la lava de un volcán para que las temperaturas extremas le ayuden a curar sus heridas. Dicen que cuando Moltres aparece, es porque la primavera está por llegar.",
+			"available": true,
+			"types": [
+				6,
+				15
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 147,
+			"name": "Dratini",
+			"description": "El Pokémon dragón. Dratini cambia de piel conforme crece, a menudo lo hace mientras se esconde tras una cascada grande y poderosa.",
+			"available": true,
+			"types": [
+				3
+			],
+			"evolution_to": [
+				148,
+				149
+			]
+		},
+		{
+			"id": 148,
+			"name": "Dragonair",
+			"description": "El Pokémon dragón. Un Pokémon legendario que puede hacer llover o nevar libremente. Se dice que es capaz de volar a pesar de no tener alas.",
+			"available": true,
+			"types": [
+				3
+			],
+			"evolution_to": [
+				149
+			]
+		},
+		{
+			"id": 149,
+			"name": "Dragonite",
+			"description": "El Pokémon dragón. Este Pokémon extremadamente raro y altamente inteligente, es capaz de volar más rápido que cualquier otro Pokémon.",
+			"available": true,
+			"types": [
+				3,
+				15
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 150,
+			"name": "Mewtwo",
+			"description": "Pokémon desconocido, no hay datos disponibles.",
+			"available": true,
+			"types": [
+				11
+			],
+			"evolution_to": []
+		},
+		{
+			"id": 151,
+			"name": "Mew",
+			"description": "Dicen que Mew posee el mapa genético de todos los Pokémon. Puede hacerse invisible cuando quiere, así que pasa desapercibido cada vez que se le acerca alguien.",
+			"available": true,
+			"types": [
+				11
+			],
+			"evolution_to": []
+		}
+	]
+}
